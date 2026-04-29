@@ -1,0 +1,1 @@
+<footer>GearHub © 2026</footer>
